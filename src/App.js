@@ -14,10 +14,10 @@ function App() {
             
               <div className='row'>
                 <div className='col-3'>
-                  <a href="https://62f2805dc8386a10625cdebb--comforting-mochi-8fd4b2.netlify.app/" target="_blank" className='btn btn-info bootstrap_btn' >Open in Browser</a>
+                  <a href="https://62f2805dc8386a10625cdebb--comforting-mochi-8fd4b2.netlify.app/" target="_blank" rel="noreferrer" className='btn btn-info bootstrap_btn' >Open in Browser</a>
                 </div>
                 <div className='col-3'>
-                  <a href="https://github.com/atharvagujarathi/bootstrap_theme" target="_blank" className='btn btn-info bootstrap_btn' >Get Code</a>
+                  <a href="https://github.com/atharvagujarathi/bootstrap_theme" target="_blank" rel="noreferrer" className='btn btn-info bootstrap_btn' >Get Code</a>
                 </div>
               
               </div>
@@ -27,7 +27,7 @@ function App() {
 
 
           <div className='col-4'>
-            <img src="https://images.unsplash.com/photo-1518773553398-650c184e0bb3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" className='bootstrap_img'/>
+            <img src="https://images.unsplash.com/photo-1518773553398-650c184e0bb3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="" className='bootstrap_img'/>
           </div>
         </div>
       </div>
